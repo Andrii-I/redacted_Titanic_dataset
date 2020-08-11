@@ -1,0 +1,91 @@
+PassengerId,Fare,Ticket,Survived,Name,Sex,Age,PortID,PortName,Population,Pclass,ClassDescription,ClassCapacity
+1,7.25,A/5 21171,0,"Braund, Mr. Owen Harris",male,22,S,Southampton,"269,781",3,Modest people class,1000
+2,71.2833,PC 17599,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,C,Cherbourg,35493,1,Sophisticated class,200
+3,7.925,STON/O2. 3101282,1,"Heikkinen, Miss. Laina",female,26,S,Southampton,"269,781",3,Modest people class,1000
+4,53.1,113803,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35,S,Southampton,"269,781",1,Sophisticated class,200
+5,8.05,373450,0,"Allen, Mr. William Henry",male,35,S,Southampton,"269,781",3,Modest people class,1000
+6,8.4583,330877,0,"Moran, Mr. James",male,17,Q,Queenstown,"15,650",3,Modest people class,1000
+7,51.8625,17463,0,"McCarthy, Mr. Timothy J",male,54,S,Southampton,"269,781",1,Sophisticated class,200
+8,21.075,349909,0,"Palsson, Master. Gosta Leonard",male,2,S,Southampton,"269,781",3,Modest people class,1000
+9,11.1333,347742,1,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27,S,Southampton,"269,781",3,Modest people class,1000
+10,30.0708,237736,1,"Nasser, Mrs. Nicholas (Adele Achem)",female,14,C,Cherbourg,35493,2,Standard class,500
+11,16.7,PP 9549,1,"Sandstrom, Miss. Marguerite Rut",female,4,S,Southampton,"269,781",3,Modest people class,1000
+12,26.55,113783,1,"Bonnell, Miss. Elizabeth",female,58,S,Southampton,"269,781",1,Sophisticated class,200
+13,8.05,A/5. 2151,0,"Saundercock, Mr. William Henry",male,20,S,Southampton,"269,781",3,Modest people class,1000
+14,31.275,347082,0,"Andersson, Mr. Anders Johan",male,39,S,Southampton,"269,781",3,Modest people class,1000
+15,7.8542,350406,0,"Vestrom, Miss. Hulda Amanda Adolfina",female,14,S,Southampton,"269,781",3,Modest people class,1000
+16,16,248706,1,"Hewlett, Mrs. (Mary D Kingcome) ",female,55,S,Southampton,"269,781",2,Standard class,500
+17,29.125,382652,0,"Rice, Master. Eugene",male,2,Q,Queenstown,"15,650",3,Modest people class,1000
+18,13,244373,1,"Williams, Mr. Charles Eugene",male,13,S,Southampton,"269,781",2,Standard class,500
+19,18,345763,0,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31,S,Southampton,"269,781",3,Modest people class,1000
+20,7.225,2649,1,"Masselmani, Mrs. Fatima",female,13,C,Cherbourg,35493,3,Modest people class,1000
+21,26,239865,0,"Fynney, Mr. Joseph J",male,35,S,Southampton,"269,781",2,Standard class,500
+22,13,248698,1,"Beesley, Mr. Lawrence",male,34,S,Southampton,"269,781",2,Standard class,500
+23,8.0292,330923,1,"McGowan, Miss. Anna ""Annie""",female,15,Q,Queenstown,"15,650",3,Modest people class,1000
+24,35.5,113788,1,"Sloper, Mr. William Thompson",male,28,S,Southampton,"269,781",1,Sophisticated class,200
+25,21.075,349909,0,"Palsson, Miss. Torborg Danira",female,8,S,Southampton,"269,781",3,Modest people class,1000
+26,31.3875,347077,1,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38,S,Southampton,"269,781",3,Modest people class,1000
+27,7.225,2631,0,"Emir, Mr. Farred Chehab",male,18,C,Cherbourg,35493,3,Modest people class,1000
+28,263,19950,0,"Fortune, Mr. Charles Alexander",male,19,S,Southampton,"269,781",1,Sophisticated class,200
+29,7.8792,330959,1,"O'Dwyer, Miss. Ellen ""Nellie""",female,22,Q,Queenstown,"15,650",3,Modest people class,1000
+30,7.8958,349216,0,"Todoroff, Mr. Lalio",male,23,S,Southampton,"269,781",3,Modest people class,1000
+31,27.7208,PC 17601,0,"Uruchurtu, Don. Manuel E",male,40,C,Cherbourg,35493,1,Sophisticated class,200
+32,146.5208,PC 17569,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,40,C,Cherbourg,35493,1,Sophisticated class,200
+33,7.75,335677,1,"Glynn, Miss. Mary Agatha",female,40,Q,Queenstown,"15,650",3,Modest people class,1000
+34,10.5,C.A. 24579,0,"Wheadon, Mr. Edward H",male,66,S,Southampton,"269,781",2,Standard class,500
+35,82.1708,PC 17604,0,"Meyer, Mr. Edgar Joseph",male,28,C,Cherbourg,35493,1,Sophisticated class,200
+36,52,113789,0,"Holverson, Mr. Alexander Oskar",male,42,S,Southampton,"269,781",1,Sophisticated class,200
+37,7.2292,2677,1,"Mamee, Mr. Hanna",male,40,C,Cherbourg,35493,3,Modest people class,1000
+38,8.05,A./5. 2152,0,"Cann, Mr. Ernest Charles",male,21,S,Southampton,"269,781",3,Modest people class,1000
+39,18,345764,0,"Vander Planke, Miss. Augusta Maria",female,18,S,Southampton,"269,781",3,Modest people class,1000
+40,11.2417,2651,1,"Nicola-Yarred, Miss. Jamila",female,14,C,Cherbourg,35493,3,Modest people class,1000
+41,9.475,7546,0,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40,S,Southampton,"269,781",3,Modest people class,1000
+42,21,11668,0,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27,S,Southampton,"269,781",2,Standard class,500
+43,7.8958,349253,0,"Kraeff, Mr. Theodor",male,40,C,Cherbourg,35493,3,Modest people class,1000
+44,41.5792,SC/Paris 2123,1,"Laroche, Miss. Simonne Marie Anne Andree",female,3,C,Cherbourg,35493,2,Standard class,500
+45,7.8792,330958,1,"Devaney, Miss. Margaret Delia",female,19,Q,Queenstown,"15,650",3,Modest people class,1000
+46,8.05,S.C./A.4. 23567,0,"Rogers, Mr. William John",male,18,S,Southampton,"269,781",3,Modest people class,1000
+47,15.5,370371,0,"Lennon, Mr. Denis",male,18,Q,Queenstown,"15,650",3,Modest people class,1000
+48,7.75,14311,1,"O'Driscoll, Miss. Bridget",female,18,Q,Queenstown,"15,650",3,Modest people class,1000
+49,21.6792,2662,0,"Samaan, Mr. Youssef",male,18,C,Cherbourg,35493,3,Modest people class,1000
+50,17.8,349237,0,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18,S,Southampton,"269,781",3,Modest people class,1000
+51,39.6875,3101295,0,"Panula, Master. Juha Niilo",male,7,S,Southampton,"269,781",3,Modest people class,1000
+52,7.8,A/4. 39886,0,"Nosworthy, Mr. Richard Cater",male,21,S,Southampton,"269,781",3,Modest people class,1000
+53,76.7292,PC 17572,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49,C,Cherbourg,35493,1,Sophisticated class,200
+54,26,2926,1,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29,S,Southampton,"269,781",2,Standard class,500
+55,61.9792,113509,0,"Ostby, Mr. Engelhart Cornelius",male,65,C,Cherbourg,35493,1,Sophisticated class,200
+56,35.5,19947,1,"Woolner, Mr. Hugh",male,65,S,Southampton,"269,781",1,Sophisticated class,200
+57,10.5,C.A. 31026,1,"Rugg, Miss. Emily",female,21,S,Southampton,"269,781",2,Standard class,500
+58,7.2292,2697,0,"Novel, Mr. Mansouer",male,28.5,C,Cherbourg,35493,3,Modest people class,1000
+59,27.75,C.A. 34651,1,"West, Miss. Constance Mirium",female,5,S,Southampton,"269,781",2,Standard class,500
+60,46.9,CA 2144,0,"Goodwin, Master. William Frederick",male,11,S,Southampton,"269,781",3,Modest people class,1000
+61,7.2292,2669,0,"Sirayanian, Mr. Orsen",male,22,C,Cherbourg,35493,3,Modest people class,1000
+62,80,113572,1,"Icard, Miss. Amelie",female,38,S,Southampton,"269,781",1,Sophisticated class,200
+63,83.475,36973,0,"Harris, Mr. Henry Birkhardt",male,45,S,Southampton,"269,781",1,Sophisticated class,200
+64,27.9,347088,0,"Skoog, Master. Harald",male,4,S,Southampton,"269,781",3,Modest people class,1000
+65,27.7208,PC 17605,0,"Stewart, Mr. Albert A",male,4,C,Cherbourg,35493,1,Sophisticated class,200
+66,15.2458,2661,1,"Moubarek, Master. Gerios",male,4,C,Cherbourg,35493,3,Modest people class,1000
+67,10.5,C.A. 29395,1,"Nye, Mrs. (Elizabeth Ramell)",female,29,S,Southampton,"269,781",2,Standard class,500
+68,8.1583,S.P. 3464,0,"Crease, Mr. Ernest James",male,19,S,Southampton,"269,781",3,Modest people class,1000
+69,7.925,3101281,1,"Andersson, Miss. Erna Alexandra",female,17,S,Southampton,"269,781",3,Modest people class,1000
+70,8.6625,315151,0,"Kink, Mr. Vincenz",male,26,S,Southampton,"269,781",3,Modest people class,1000
+71,10.5,C.A. 33111,0,"Jenkin, Mr. Stephen Curnow",male,32,S,Southampton,"269,781",2,Standard class,500
+72,46.9,CA 2144,0,"Goodwin, Miss. Lillian Amy",female,16,S,Southampton,"269,781",3,Modest people class,1000
+73,73.5,S.O.C. 14879,0,"Hood, Mr. Ambrose Jr",male,21,S,Southampton,"269,781",2,Standard class,500
+74,14.4542,2680,0,"Chronopoulos, Mr. Apostolos",male,26,C,Cherbourg,35493,3,Modest people class,1000
+75,56.4958,1601,1,"Bing, Mr. Lee",male,32,S,Southampton,"269,781",3,Modest people class,1000
+76,7.65,348123,0,"Moen, Mr. Sigurd Hansen",male,25,S,Southampton,"269,781",3,Modest people class,1000
+77,7.8958,349208,0,"Staneff, Mr. Ivan",male,26,S,Southampton,"269,781",3,Modest people class,1000
+78,8.05,374746,0,"Moutal, Mr. Rahamin Haim",male,26,S,Southampton,"269,781",3,Modest people class,1000
+79,29,248738,1,"Caldwell, Master. Alden Gates",male,0.83,S,Southampton,"269,781",2,Standard class,500
+80,12.475,364516,1,"Dowdell, Miss. Elizabeth",female,30,S,Southampton,"269,781",3,Modest people class,1000
+81,9,345767,0,"Waelens, Mr. Achille",male,22,S,Southampton,"269,781",3,Modest people class,1000
+82,9.5,345779,1,"Sheerlinck, Mr. Jan Baptist",male,29,S,Southampton,"269,781",3,Modest people class,1000
+83,7.7875,330932,1,"McDermott, Miss. Brigdet Delia",female,29,Q,Queenstown,"15,650",3,Modest people class,1000
+84,47.1,113059,0,"Carrau, Mr. Francisco M",male,28,S,Southampton,"269,781",1,Sophisticated class,200
+85,10.5,SO/C 14885,1,"Ilett, Miss. Bertha",female,17,S,Southampton,"269,781",2,Standard class,500
+86,15.85,3101278,1,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33,S,Southampton,"269,781",3,Modest people class,1000
+87,34.375,W./C. 6608,0,"Ford, Mr. William Neal",male,16,S,Southampton,"269,781",3,Modest people class,1000
+88,8.05,SOTON/OQ 392086,0,"Slocovski, Mr. Selman Francis",male,17,S,Southampton,"269,781",3,Modest people class,1000
+89,263,19950,1,"Fortune, Miss. Mabel Helen",female,23,S,Southampton,"269,781",1,Sophisticated class,200
+90,8.05,343275,0,"Celotti, Mr. Francesco",male,24,S,Southampton,"269,781",3,Modest people class,1000
